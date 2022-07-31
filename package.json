@@ -1,0 +1,21 @@
+{
+  "name": "iday_site",
+  "version": "1.0.0",
+  "description": "Independence Day Site",
+  "engines": {
+    "node": "12.x",
+    "npm": "6.x"
+  },
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
